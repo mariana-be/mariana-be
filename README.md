@@ -1,8 +1,8 @@
 # Olá, me chamo Mariana Bezerra da Silva! 
 ## Bem vindo ao meu perfil no GitHub 👋
 
-🧑‍💻 Analista de QA.
-✅ Automação/ Ferramentas que tenho experiência, vivência ou aprendizado: Ruby, Cucumber, Capybara, Cypress, Postman, Android Studio (teste em aplicativo móvel), TestFlight (teste em aplicativo móvel em IOS), Expo Go (teste em aplicativo móvel para Android), BrowserStack (teste em aplicativo Android e IOS), Git, GitHub, Bitbucket e Magento.
+🧑‍💻 - Analista de QA.
+✅ - Automação/ Ferramentas que tenho experiência, vivência ou aprendizado: Ruby, Cucumber, Capybara, Cypress, Postman, Android Studio (teste em aplicativo móvel), TestFlight (teste em aplicativo móvel em IOS), Expo Go (teste em aplicativo móvel para Android), BrowserStack (teste em aplicativo Android e IOS), Git, GitHub, Bitbucket e Magento.
 
 ## Ferramentas e Tecnologias
 
